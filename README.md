@@ -1,16 +1,20 @@
-### Hi there 👋
+# Меня зовут Эрлих Вячеслав! 👋👋👋
+## Я Python-разработчик.
 
-<!--
-**coolslive/coolslive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Обо мне:
 
-Here are some ideas to get you started:
+#### 🎓 Образование
+- Средне-специальное: "Специалист по вводу и обработке информации" (Колледж №64) - 2011
+- Профессиональная переподготовка - "Python-разработчик" от Яндекса. Практикум - 2023
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💻 Cтек
+
+| Категория | Технологии |
+|----------|----------|
+| Использую   | Python 3, Django, PostgreSQL, SQLite3, Gunicorn, Nginx, Docker, Django REST Framework, GIT, язык SQL. |
+| Также:   | ООП, алгоритмы, тестирование. |
+
+#### 📫 Контакты
+- [Telegram](https://t.me/coolslive)
+- [LinkedIn](https://www.linkedin.com/in/coolslive)
+- [Mail](coolslive@yandex.ru)
