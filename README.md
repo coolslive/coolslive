@@ -17,4 +17,3 @@
 #### 📫 Контакты
 - [Telegram](https://t.me/coolslive)
 - [LinkedIn](https://www.linkedin.com/in/coolslive)
-- [Mail](coolslive@yandex.ru)
